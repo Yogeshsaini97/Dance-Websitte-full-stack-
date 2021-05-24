@@ -1,0 +1,109 @@
+body{
+    background-image: url("/fileread/danceservice.jpg");
+    height:200vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+/* title  */
+
+.co{position: relative;
+    top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    color:white;
+    font-size: 2rem;
+}
+
+/* section one  */
+.gr{
+
+  /* border:2px solid red; */
+  height:400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+
+}
+.ti{
+    display: flex;
+    flex-direction: column;
+}
+#img2{
+    height: 279px;
+    width: 429px;
+    padding: 0px 30px;
+}
+.paras{
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    font-family: fantasy;
+    font-size: 24px;
+    font-style: italic;
+}
+.gr1{
+    /* opacity: 0.5; */
+
+
+    background-image: url(/fileread/services3.jpg);
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.gr1 div p{
+    margin: auto;
+    position: relative;
+    top: 200px;
+    width: 50%;
+    color: white;
+    background-color: black;
+    border: 14px solid white;
+    padding: 59px;
+    border-radius: 40px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* section two  */
+.ats{
+    /* border:2px solid red; */
+    height:300px;
+    
+}
+
+
+
+
+
+
+
+/* section three */
+.lu{
+    /* border:2px solid red; */
+    height:300px;
+    
+}

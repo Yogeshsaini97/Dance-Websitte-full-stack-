@@ -1,0 +1,99 @@
+body{
+    background-image: url("/fileread/aboutblack.jpg");
+    height:200vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/* section one  */
+.nu{position: relative;
+    top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+}
+
+.nu h1{
+     font-size:4rem;
+     /* border:2px solid red; */
+     color:white;
+}
+.ha{
+    height:400px;
+    /* background-color: brown; */
+    /* border:2px solid red; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    padding: 77px 0px 0px 0px;
+
+    
+}
+.ha img{
+    height: 355px;
+    width: 605px;
+    border: 2px solid white;
+}
+/* section two  */
+
+.ma{
+
+    height:400px;
+    
+    /* border:2px solid red; */
+
+}
+.an{
+    height:400px;
+    
+    /* border:2px solid red; */
+
+
+}
+#vi{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+
+}
+#vi h1{
+    font-size: 2rem;
+    color: white;
+    font-weight: bold;
+    /* font-style: italic; */
+    font-family: fantasy;
+
+}
+/* section three  */
+.ma div p{
+    
+    color:white;
+
+}
+#ra{
+    width: 50%;
+    margin: auto;
+
+}
+.at h1{
+    color: white;
+    font-size: 2rem;
+    color: white;
+    font-weight: bold;
+    /* font-style: italic; */
+    font-family: fantasy;
+
+}
+/* section four  */
+.ko
+{
+    color: white;
+    border-block-end: 2px solid white;
+}
+.ko p{
+    margin: 6px 0px;
+
+}
